@@ -1,0 +1,8 @@
+C:\Users\Gleb\source\repos\UserType\UserType\bin\Debug\UserType.exe.config
+C:\Users\Gleb\source\repos\UserType\UserType\bin\Debug\UserType.exe
+C:\Users\Gleb\source\repos\UserType\UserType\bin\Debug\UserType.pdb
+C:\Users\Gleb\source\repos\UserType\UserType\obj\Debug\UserType.csproj.AssemblyReference.cache
+C:\Users\Gleb\source\repos\UserType\UserType\obj\Debug\UserType.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gleb\source\repos\UserType\UserType\obj\Debug\UserType.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\source\repos\UserType\UserType\obj\Debug\UserType.exe
+C:\Users\Gleb\source\repos\UserType\UserType\obj\Debug\UserType.pdb

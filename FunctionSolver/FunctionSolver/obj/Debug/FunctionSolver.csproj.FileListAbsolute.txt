@@ -1,0 +1,8 @@
+C:\Users\Gleb\source\repos\FunctionSolver\FunctionSolver\bin\Debug\FunctionSolver.exe.config
+C:\Users\Gleb\source\repos\FunctionSolver\FunctionSolver\bin\Debug\FunctionSolver.exe
+C:\Users\Gleb\source\repos\FunctionSolver\FunctionSolver\bin\Debug\FunctionSolver.pdb
+C:\Users\Gleb\source\repos\FunctionSolver\FunctionSolver\obj\Debug\FunctionSolver.csproj.AssemblyReference.cache
+C:\Users\Gleb\source\repos\FunctionSolver\FunctionSolver\obj\Debug\FunctionSolver.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gleb\source\repos\FunctionSolver\FunctionSolver\obj\Debug\FunctionSolver.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\source\repos\FunctionSolver\FunctionSolver\obj\Debug\FunctionSolver.exe
+C:\Users\Gleb\source\repos\FunctionSolver\FunctionSolver\obj\Debug\FunctionSolver.pdb

@@ -1,0 +1,16 @@
+C:\Users\Gleb\source\repos\StringSplitter\StringSplitter\bin\Debug\StringSplitter.exe.config
+C:\Users\Gleb\source\repos\StringSplitter\StringSplitter\bin\Debug\StringSplitter.exe
+C:\Users\Gleb\source\repos\StringSplitter\StringSplitter\bin\Debug\StringSplitter.pdb
+C:\Users\Gleb\source\repos\StringSplitter\StringSplitter\obj\Debug\StringSplitter.csproj.AssemblyReference.cache
+C:\Users\Gleb\source\repos\StringSplitter\StringSplitter\obj\Debug\StringSplitter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gleb\source\repos\StringSplitter\StringSplitter\obj\Debug\StringSplitter.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\source\repos\StringSplitter\StringSplitter\obj\Debug\StringSplitter.exe
+C:\Users\Gleb\source\repos\StringSplitter\StringSplitter\obj\Debug\StringSplitter.pdb
+C:\Users\Gleb\source\repos\StringSplitterModded\StringSplitter\bin\Debug\StringSplitter.exe.config
+C:\Users\Gleb\source\repos\StringSplitterModded\StringSplitter\bin\Debug\StringSplitter.exe
+C:\Users\Gleb\source\repos\StringSplitterModded\StringSplitter\bin\Debug\StringSplitter.pdb
+C:\Users\Gleb\source\repos\StringSplitterModded\StringSplitter\obj\Debug\StringSplitter.csproj.AssemblyReference.cache
+C:\Users\Gleb\source\repos\StringSplitterModded\StringSplitter\obj\Debug\StringSplitter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gleb\source\repos\StringSplitterModded\StringSplitter\obj\Debug\StringSplitter.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\source\repos\StringSplitterModded\StringSplitter\obj\Debug\StringSplitter.exe
+C:\Users\Gleb\source\repos\StringSplitterModded\StringSplitter\obj\Debug\StringSplitter.pdb

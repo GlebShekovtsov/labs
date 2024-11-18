@@ -1,0 +1,8 @@
+C:\Users\Gleb\source\repos\ReworkedFunctionSolver\ReworkedFunctionSolver\bin\Debug\ReworkedFunctionSolver.exe.config
+C:\Users\Gleb\source\repos\ReworkedFunctionSolver\ReworkedFunctionSolver\bin\Debug\ReworkedFunctionSolver.exe
+C:\Users\Gleb\source\repos\ReworkedFunctionSolver\ReworkedFunctionSolver\bin\Debug\ReworkedFunctionSolver.pdb
+C:\Users\Gleb\source\repos\ReworkedFunctionSolver\ReworkedFunctionSolver\obj\Debug\ReworkedFunctionSolver.csproj.AssemblyReference.cache
+C:\Users\Gleb\source\repos\ReworkedFunctionSolver\ReworkedFunctionSolver\obj\Debug\ReworkedFunctionSolver.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gleb\source\repos\ReworkedFunctionSolver\ReworkedFunctionSolver\obj\Debug\ReworkedFunctionSolver.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\source\repos\ReworkedFunctionSolver\ReworkedFunctionSolver\obj\Debug\ReworkedFunctionSolver.exe
+C:\Users\Gleb\source\repos\ReworkedFunctionSolver\ReworkedFunctionSolver\obj\Debug\ReworkedFunctionSolver.pdb
